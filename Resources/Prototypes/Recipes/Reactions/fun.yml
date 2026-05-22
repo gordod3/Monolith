@@ -245,3 +245,14 @@
     intensitySlope: 1
     maxTotalIntensity: 250
     tileBreakScale: 0.00001
+
+- type: reaction
+  id: LaughterSyntezer
+  impact: Medium
+  reactants:
+    SpaceLube:
+      amount: 1
+    Water:
+      amount: 1
+  products:
+    Laughter: 2
